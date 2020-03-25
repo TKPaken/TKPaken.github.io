@@ -1,0 +1,26 @@
+title: Paken for beginners
+description: Paken Web 
+author: Paken
+logo: /static/img/avatar.png
+github: https://github.com/TKPaken
+about: for beginner
+
+baseurl: ""
+url: "https://defineprogram.github.io"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+
+share:
+  twitter_username: defineprogram
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]

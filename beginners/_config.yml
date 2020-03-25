@@ -5,15 +5,20 @@ logo: /static/img/avatar.png
 github: https://github.com/TKPaken
 about: for beginner
 
+<<<<<<< HEAD:beginners/_config.yml
 baseurl: "/beginners"
 url: "https://TKPaken.github.io/beginners"
+=======
+baseurl: ""
+url: "https://defineprogram.github.io"
+>>>>>>> parent of 39a1c7a... fix author e.t.c.:_config.yml
 
 allowsearch: true
 
 disqus_shortname: aboutashu
 
 share:
-  twitter_username: tk_paken
+  twitter_username: defineprogram
 
 
 enableTags: true

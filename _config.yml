@@ -6,14 +6,14 @@ github: https://github.com/TKPaken
 about: for beginner
 
 baseurl: ""
-url: "https://defineprogram.github.io"
+url: "https://TKPaken.github.io"
 
 allowsearch: true
 
 disqus_shortname: aboutashu
 
 share:
-  twitter_username: defineprogram
+  twitter_username: tk_paken
 
 
 enableTags: true
